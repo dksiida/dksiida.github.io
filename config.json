@@ -1,0 +1,12 @@
+{
+  "defaultHomeserver": 3,
+  "homeserverList": [
+    "converser.eu",
+    "envs.net",
+    "halogen.city",
+    "matrix.icarus.today",
+    "matrix.org",
+    "mozilla.org"
+  ],
+  "allowCustomHomeservers": true
+}
